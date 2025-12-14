@@ -1,0 +1,2 @@
+[console_scripts]
+dev = script.cli:main
